@@ -1,5 +1,5 @@
 - Hej 👋, I am Sascha
-- I do typing characters for computers since 1999 💻
+- I do typing characters for computers as a professional since 1999 💻
 - Mostly, I do my things with laravel on the TALL stack 💪
 - Looking to get your own laravel log central? Here you go: https://github.com/spresnac/logcrawler2-server
 
