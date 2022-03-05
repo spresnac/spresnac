@@ -1,4 +1,9 @@
-### Hi there 👋
+- Hej 👋, I am Sascha
+- I do typing characters for computers since 1999 💻
+- Mostly, I do my things with laravel on the TALL stack 💪
+- Looking to get your own laravel log central? Here you go: https://github.com/spresnac/logcrawler2-server
+
+[![SPresnac's GitHub stats](https://github-readme-stats.vercel.app/api?username=spresnac)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **spresnac/spresnac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
